@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PargueParking": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
